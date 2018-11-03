@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Project Liquar Sale", "Report Project Liquar Sale\Report Project Liquar Sale.rptproj", "{800CF63E-AEB3-4BFC-82D2-34F63B751E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{800CF63E-AEB3-4BFC-82D2-34F63B751E05}.Debug|Default.ActiveCfg = Debug
+		{800CF63E-AEB3-4BFC-82D2-34F63B751E05}.Debug|Default.Build.0 = Debug
+		{800CF63E-AEB3-4BFC-82D2-34F63B751E05}.Debug|Default.Deploy.0 = Debug
+		{800CF63E-AEB3-4BFC-82D2-34F63B751E05}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{800CF63E-AEB3-4BFC-82D2-34F63B751E05}.DebugLocal|Default.Build.0 = DebugLocal
+		{800CF63E-AEB3-4BFC-82D2-34F63B751E05}.Release|Default.ActiveCfg = Release
+		{800CF63E-AEB3-4BFC-82D2-34F63B751E05}.Release|Default.Build.0 = Release
+		{800CF63E-AEB3-4BFC-82D2-34F63B751E05}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
